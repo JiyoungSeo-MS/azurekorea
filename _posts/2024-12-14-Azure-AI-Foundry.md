@@ -7,7 +7,7 @@ category: [Solution]
 image: assets/images/thumnails/connection.png
 ---
 
-# Microsoft Ignite 202: Azure AI Foundry의 핵심 기능 소개
+# Microsoft Ignite 2024: Azure AI Foundry의 핵심 기능 소개
 <br/> 
 
 ## 1. LLM 확장: Agent 
