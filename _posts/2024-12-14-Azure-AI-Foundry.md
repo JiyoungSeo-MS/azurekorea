@@ -14,7 +14,7 @@ image: assets/images/thumnails/connection.png
 ![img](../assets/images/seojiyoung/agentfirst.png)
 
 그래서 최근AI Agent에 대한 활용이 늘어나고 있는 추세인데, 마이크로소프트 역시 ‘Microsoft Ignite 2024’에서 Agent 기능을 발표했습니다. 
-다음과 같이 Azure AI Foundry(AI Hub에서 변경된 명칭)의 하나의 기능으로 포함되어 있지만 현재 Preview 상태라 메뉴에 보이지 않을 수 있습니다. (별도 신청을 통해 사용해야 합니다)
+Agent 기능은 다음과 같이 Azure AI Foundry(AI Hub에서 변경된 명칭)의 하나의 기능으로 포함되어 있지만 현재 Preview 상태라 메뉴에 보이지 않을 수 있습니다. 별도 신청을 통해 사용할 수 있는 상태입니다.
 ![img](../assets/images/seojiyoung/agent.png)
 
 AI Agent의 핵심이 무엇인가요? 데이터에 접근하여 데이터를 가져오고, 툴을 이용해서 업무를 자동화해주는 워크플로우 생성이겠죠? 그래서 같이 Azure AI Foundry의 Agent는 다음과 같이 데이터에 접근할 수 있는 ‘Connectivity’와 도구를 연결하는 ‘Developer tooling’을 제공합니다. 
