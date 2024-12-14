@@ -36,11 +36,9 @@ ChatGPT가 등장했을 때 사람들이 가장 문제 삼았던 문제가 할�
 Azure AI Foundry에 접속하여 ‘Safety + security’를 선택하면 다음과 같이 ‘Filter text content’라고 하여 5가지 기능들을 보여줍니다. 현재 진행하려는 ‘Groundedness Detection’은 현재 Preview 상태입니다.
 ![img](../assets/images/seojiyoung/filtertext.png)
 
-다음과 같이 ‘Grounding source’와 ‘completion’을 작성합니다. RAG에서 원천 소스라고 이해하면 됩니다.
+다음과 같이 ‘Grounding source’를 작성합니다. 이것은 RAG에서 원천 소스라고 이해하면 됩니다. 또한 'Completion'에는 'Grounding source'를 기반으로 틀린 답을 기입합니다.
 ![img](../assets/images/seojiyoung/completion.png)
 
-‘Grounding source’ 내용에 기반하여 질문을 합니다. 
-![img](../assets/images/seojiyoung/prompt.png)
 
 이제 결과를 테스트해 봅시다.
 ![img](../assets/images/seojiyoung/runtest.png)
