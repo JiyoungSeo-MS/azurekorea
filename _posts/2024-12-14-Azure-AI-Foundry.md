@@ -17,7 +17,7 @@ image: assets/images/thumnails/connection.png
 ![img](../assets/images/seojiyoung/agent.png)
 
 AI Agent의 핵심이 무엇인가요? 데이터에 접근하여 데이터를 가져오고, 툴을 이용해서 업무를 자동화해주는 워크플로우 생성이겠죠? 그래서 같이 Azure AI Foundry의 Agent는 다음과 같이 데이터에 접근할 수 있는 ‘Connectivity’와 도구를 연결하는 ‘Developer tooling’을 제공합니다. 
-![img](../assets/images/seojiyoung/connection.png)
+![img](../assets/images/seojiyoung/connect.png)
 
 그리고 그 핵심에는 Azure Logic Apps와 Azure Functions가 있습니다. 
 ![img](../assets/images/seojiyoung/logicapp.png)
