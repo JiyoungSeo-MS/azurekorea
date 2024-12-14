@@ -10,7 +10,7 @@ image: assets/images/thumnails/connection.png
 # Microsoft Ignite 2024: Azure AI Foundry의 핵심 기능 소개
 <br/> 
 
-## 1. LLM 확장: Agent 
+## 1. LLM의 확장: Agent 
 요즈음은 LLM을 단순히 RAG로 활용하지 않습니다. LLM에 다양한 툴(도구)를 붙여서 업무의 자동화까지 확장시키고 있습니다. 그래서 최근 AI Agent라는 용어를 자주 듣게 되는데요. AI Agent는 사람의 명령 없이도 스스로 환경을 인식하고, 상황에 맞게 행동을 선택하며, 목표를 달성하기 위해 학습하고 조치를 취하는 인공지능 프로그램입니다. 쉽게 말해 똑똑한 AI 비서라고 할 수 있죠. 
 이렇게 똑똑한 친구를 LLM과 연계하면 에이전트는 더 유연하게 질문에 답변하고, 문제를 해결하고, 명령을 실행할 수 있습니다. 결과적으로 고객 서비스, 지능형 자동화, 자율적인 작업 수행 등이 가능해집니다. 
 ![img](../assets/images/seojiyoung/agentfirst.png)
