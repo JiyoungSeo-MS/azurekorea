@@ -24,7 +24,7 @@ AI Agent의 핵심이 무엇인가요? 데이터에 접근하여 데이터를 �
 ![img](../assets/images/seojiyoung/logicapp.png)
 
 Azure Logic Apps는 코딩 없이도 업무 프로세스를 자동화할 수 있는 클라우드 기반 워크플로우 서비스입니다. 이것은 워크플로우를 시작하는 트리거(Trigger)와 트리거 이후에 작업을 실행하는 동작(Action)으로 구성되었기 때문에 AI Agent를 구현하는데 최적의 제품입니다. 그리고 Azure Functions는 이벤트가 발생때 코드를 실행시키는 기능을 제공합니다. 즉, Azure Logic Apps가 코드 없이 작업을 자동화할 수 있는 제품이라면 Azure Functions는 코딩 가능한 서버리스 함수라고 할 수 있습니다.
-이 정도의 기능이라면 AI Agent를 편리하게 구현할 수 있겠죠? 
+이 정도의 기능이라면 AI Agent를 편리하게 구현할 수 있겠죠?  
 
 ## 2. 할루시네이션 해결 방안: Groundedness Detection 
 Microsoft Ignite 2024에서 AI 관련하여 많은 업데이트가 소개되었습니다. 그 중에서 “Groundedness Detection”을 소개하고자 합니다. 
